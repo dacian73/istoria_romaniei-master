@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "721613623102",
+    "firebase_url": "https://istoriaromaniei-3bf4f.firebaseio.com",
+    "project_id": "istoriaromaniei-3bf4f",
+    "storage_bucket": "istoriaromaniei-3bf4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721613623102:android:ff752ec1504d5c93",
+        "android_client_info": {
+          "package_name": "ro.dacian73.istoria_romaniei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721613623102-36k6mn6m80oh2ik4k673vp509r8lv78v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfYJrrorZniloRjHP5fU1mq1OETajl1ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721613623102-36k6mn6m80oh2ik4k673vp509r8lv78v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7342631777280181~1472905836"
+    }
+  ],
+  "configuration_version": "1"
+}
